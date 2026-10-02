@@ -125,7 +125,11 @@
 
                     <!-- YouTube Direct Link -->
                     <a href="https://www.youtube.com/watch?v=1K0Xa8nmOyo" target="_blank" rel="noopener noreferrer" class="text-amber-400 hover:text-amber-300 font-bold flex items-center gap-1 ml-1 text-xs sm:text-sm transition-colors">
-                        YouTube 觀看 &rarr;share" 
+                   <div class="video-container">
+    <iframe 
+      src="https://www.youtube.com/embed/1K0Xa8nmOyo" 
+      title="YouTube video player" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
       allowfullscreen>
     </iframe>
   </div>
