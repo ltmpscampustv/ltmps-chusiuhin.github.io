@@ -55,7 +55,7 @@
 
   <h1>日日悅閱</h1>
   <p class="subtitle">
-    今天是 <span class="highlight-date">2026年10月2日星期五</span>，歡迎收看 LTMPS 校園電視台直播，請耐心等候節目開始。
+    今天是 <span class="highlight-date">2026年10月5日星期一</span>，歡迎收看 LTMPS 校園電視台直播，請耐心等候節目開始。
   </p>
 
   <div class="alert-box">
@@ -64,7 +64,7 @@
 
   <div class="video-container">
     <iframe 
-      src="https://www.youtube.com/embed/1K0Xa8nmOyo" 
+      src="[https://www.youtube.com/embed/FKaTTN3zrvU]" 
       title="YouTube video player" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
       allowfullscreen>
